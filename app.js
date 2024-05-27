@@ -22,7 +22,7 @@
 
 // let sum = 0 ;
 
-// for( i = 1 ; i <= n ; i++){
+// for(let i = 1 ; i <= n ; i++){
 // sum = sum + i ;
 // }
 
@@ -34,7 +34,7 @@
 
 // let sum = 0 ;
 
-// for( i = 1 ; i <= n ; i++){
+// for(let i = 1 ; i <= n ; i++){
 // if(i % 2 == 0){
 // console.log(i);
 // sum = sum + i ;
@@ -50,7 +50,7 @@
 // let sum = 0 ;
 
 // for( i = 1 ; i <= n ; i++){
-// if(i % 2 == 1){
+// if(let i % 2 == 1){
 // console.log(i); 
 // sum = sum + i ; 
 // }
@@ -62,7 +62,7 @@
 
 // let n = +prompt("n ni kiriting;");
 
-// for(i = 1 ; i <= n ; i++){
+// for(let i = 1 ; i <= n ; i++){
 // if(n % i == 0 ){
 // console.log(i);
 // }
@@ -77,7 +77,7 @@
 
 // let counter = 0 ;
 
-// for( i = 1 ; i <= n ; i++ ){
+// for(let i = 1 ; i <= n ; i++ ){
 // if( n % i == 0 ){
 // counter = counter + 1 ;
 // sum = sum + i ;
@@ -110,7 +110,7 @@
 
 // let b = +prompt("b sonini kiriting;");
 
-// for(i = a ; i <= b ; i++ ){
+// for(let i = a ; i <= b ; i++ ){
 //     console.log(i);
 // };
 
@@ -123,7 +123,7 @@
 
 // let b = +prompt("b ni kiriting;");
 
-// for( i = b-- ; i > a ; i-- ){
+// for(let i = b-- ; i > a ; i-- ){
 // console.log(i);
 // };
 
@@ -134,7 +134,7 @@
 
 // let result = 0;
 
-// for(i = 1 ; i <= 10 ; i++){
+// for(let i = 1 ; i <= 10 ; i++){
 // console.log(kg*i);
 // result = kg*i;
 // }
@@ -146,7 +146,7 @@
 
 // let result = 0;
 
-// for(i = 0.1 ; i <= 1 ; i += 0.1){
+// for(let i = 0.1 ; i <= 1 ; i += 0.1){
 // console.log(kg*i);
 // result = kg*i;
 // }
@@ -158,7 +158,7 @@
 
 // let result = 0;
 
-// for(i = 1.2 ; i <= 2 ; i += 0.2){
+// for(let i = 1.2 ; i <= 2 ; i += 0.2){
 // console.log(kg*i);
 // result = kg*i;
 // }
@@ -174,7 +174,7 @@
 
 // let sum = 0 ;
 
-// for(i = a ; i <= b ; i++){
+// for(let i = a ; i <= b ; i++){
 
 // sum +=i ;
 // };
@@ -191,7 +191,7 @@
 
 // let sum = 1 ;
 
-// for(i = a ; i <= b ; i++){
+// for(let i = a ; i <= b ; i++){
 
 // sum = sum * i ;
 // };
@@ -208,7 +208,7 @@
 
 // let sum = 0 ;
 
-// for(i = a ; i < b ; i++){
+// for(let i = a ; i < b ; i++){
 // sum = sum + i*i ;
 // }
 // console.log(sum);
@@ -220,7 +220,7 @@
 
 // sum = 0 ;
 
-// for( i = 1 ; i <= n ; i++ ){
+// for(let i = 1 ; i <= n ; i++ ){
 // sum = sum + 1/i ;
 // }
 // console.log(sum);
@@ -234,7 +234,7 @@
 
 // let sum = 0 ;
 
-// for( i = n ; i <= 2*(n*n) ; i++){
+// for(let i = n ; i <= 2*(n*n) ; i++){
 // sum = sum + i*i ;
 // }
 // console.log(sum);
